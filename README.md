@@ -15,4 +15,4 @@ The project is organized as follows:
 
     .gitonore: The file that you don't want in your repo
     
-    linters.yml: The file to config linters in this project
+    linters.yml: The file to configuration linters in this project
